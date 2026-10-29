@@ -1,0 +1,5 @@
+delinquency_status,clients,pct_of_portfolio,default_rate_pct
+Current,23182,77.27,13.83
+1 month late,3688,12.29,33.95
+2 months late,2667,8.89,69.14
+3+ months late,463,1.54,71.92

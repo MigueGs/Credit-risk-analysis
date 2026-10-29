@@ -1,0 +1,13 @@
+feature,coefficient,odds_ratio_per_1sd
+months_delinquent,0.769,2.157
+dpd_m1,0.38,1.463
+max_dpd,0.297,1.345
+dpd_m2,-0.221,0.802
+log_credit_limit,-0.219,0.804
+utilization_m1,0.123,1.131
+dpd_m4,-0.112,0.894
+dpd_m3,-0.106,0.899
+payment_ratio,0.082,1.086
+avg_utilization,-0.079,0.924
+dpd_m5,-0.078,0.925
+dpd_m6,-0.062,0.939

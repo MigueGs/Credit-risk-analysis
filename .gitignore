@@ -1,0 +1,9 @@
+# raw data and local database
+data/*.csv
+data/*.xls
+data/*.db
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+docs/

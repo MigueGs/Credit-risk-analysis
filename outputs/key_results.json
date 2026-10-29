@@ -1,0 +1,18 @@
+{
+  "n_clients": 30000,
+  "default_rate_pct": 22.12,
+  "logit_auc": 0.7472,
+  "logit_gini": 0.4944,
+  "logit_ks": 0.3852,
+  "gbm_auc": 0.7778,
+  "top_band_default_rate_pct": 65.22,
+  "bottom_band_default_rate_pct": 5.89,
+  "top3_bands_capture_pct": 59.6,
+  "optimal_cutoff_pd": 0.18,
+  "approval_rate_pct": 67.16,
+  "bad_rate_baseline_pct": 22.12,
+  "bad_rate_optimal_pct": 12.34,
+  "defaults_avoided_pct": 62.53,
+  "profit_uplift_ntd": 39210650.0,
+  "profit_uplift_pct": 151.8
+}
