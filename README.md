@@ -4,14 +4,14 @@
 
 End-to-end credit-risk project on 30,000 real credit card clients: SQL data cleaning and KPI reporting, client-behavior analysis, an explainable probability-of-default (PD) model, and a cut-off strategy that turns model output into a business decision with a dollar impact.
 
-`SQL (SQLite)` · `Python (pandas, scikit-learn)` · `Power BI` · `Logistic Regression` · `AUC / Gini / KS`
+`SQL (SQLite)` · `Python (pandas, scikit-learn)` · `Logistic Regression` · `AUC / Gini / KS`
 
 ---
 
 ## Key results
 
 <!-- RESULTS:START -->
-| | |
+| Metric | Result |
 |---|---|
 | Clients analyzed | **30,000** (portfolio default rate 22.1%) |
 | PD model (logistic regression, hold-out test set) | **AUC 0.747 · Gini 0.494 · KS 0.385** |
